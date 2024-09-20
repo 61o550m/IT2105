@@ -1,0 +1,56 @@
+using System;
+
+public class ZaWarudo
+{
+    public static void Main(string[] args)
+    {
+        Console.Write("Input your grade on English:");
+        double grade1 = Convert.ToDouble(Console.ReadLine());
+    
+        
+        Console.Write("Input your grade on Math:");
+        double grade2 =  Convert.ToDouble(Console.ReadLine());
+
+        
+        Console.Write("Input your grade on Science:");
+        double grade3 =  Convert.ToDouble(Console.ReadLine());
+
+        
+        Console.Write("Input your grade on TLE:");
+        double grade4 = Convert.ToDouble(Console.ReadLine());
+        
+        Console.WriteLine("English:" + grade1);
+        Console.WriteLine("Math:" + grade2);
+        Console.WriteLine("Science:" + grade3);
+        Console.WriteLine("TLE:" + grade4);
+        
+        double average = (grade1 + grade2 + grade3 + grade4) /4;
+            Console.WriteLine("Average:" + average);
+        
+        if (average > 100) 
+        {
+            Console.WriteLine("Invalid Grade");
+        }
+        else if (average >= 98) 
+        {
+            Console.WriteLine("With Highest Honors");
+        } 
+        else if (average >= 95) 
+        {
+            Console.WriteLine("With High Honors");
+        } 
+        else if (average >= 90) 
+        {
+            Console.WriteLine("With Honors");
+        }
+        else if (average >= 75) 
+        {
+            Console.WriteLine("Passed");
+        } 
+        else 
+        {
+            Console.WriteLine("Failed.");
+        }
+        
+    }
+}
