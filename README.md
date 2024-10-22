@@ -3,7 +3,7 @@ IT2105_LabActivity4_INHAYNES
 Code:
 
 
-![image](https://github.com/user-attachments/assets/bed9da02-e868-4674-9e93-b98a2fea4be0)
+![image](https://github.com/user-attachments/assets/9bbf9c51-a64f-403e-8166-4c3bc370f9db)
 ![image](https://github.com/user-attachments/assets/36947957-33c5-4af6-aa1b-2636818fcc13)
 
 
