@@ -3,9 +3,8 @@ IT2105_LabActivity4_INHAYNES
 Code:
 
 
-![image](https://github.com/user-attachments/assets/648f9113-e18b-4090-b9a2-d30811abbc27)
-![image](https://github.com/user-attachments/assets/3ebd7ce2-b7b4-4bea-bfe2-1e6efde663b2)
-![image](https://github.com/user-attachments/assets/f020bbe2-02e9-4353-bdb5-5c5db85fe17c)
+![image](https://github.com/user-attachments/assets/bed9da02-e868-4674-9e93-b98a2fea4be0)
+![image](https://github.com/user-attachments/assets/36947957-33c5-4af6-aa1b-2636818fcc13)
 
 
 Output:
