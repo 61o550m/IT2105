@@ -21,6 +21,8 @@ Code Explanation:
 Based on user input, this C# program determines which ride service (Uber or Grab) is cheaper. First, it asks the user how many test cases there are, and once the answer is entered, it is stored in “int T”. The program then initializes a string array named results to store the outcomes. The for loop iterates T times, asking in the prices in the format “X Y” and uses two while loops to get the integers inside the for loop that iterates T times. The first loop creates the price for Uber (X) by converting the string into an integer, and the second loop does the same for Grab (Y). After comparing the two prices entered by the user, the program will then use a conditional statement which is if, else if, and else which assigns the result of “FIRST”, “SECOND”, or “ANY” to tell which price of service is cheaper or if they are equal. Afterwards, the program outputs the results for all test cases. It displays a header "Results:" once using Console.WriteLine, followed by a for loop that iterates through the results array to print each outcome.
 
 
+
+
 IT2105_Seatwork1_INHAYNES
 
 Code:
