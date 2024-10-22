@@ -14,22 +14,25 @@ class LabAct4
             Console.Write($"Enter prices for test case {i + 1} (Uber Grab): ");
             string input = Console.ReadLine();
 
-            int X = 0;
-            int Y = 0;
             int index = 0;
 
+            string uberPrice = "";
             while (index < input.Length && input[index] != ' ')
             {
-                X = X * 10 + (input[index] - '0'); 
+                uberPrice += input[index];
                 index++;
             }
-            index++; 
+            index++;
 
+            string grabPrice = "";
             while (index < input.Length)
             {
-                Y = Y * 10 + (input[index] - '0'); 
+                grabPrice += input[index];
                 index++;
             }
+
+            int X = Convert.ToInt32(uberPrice);
+            int Y = Convert.ToInt32(grabPrice);
 
             if (X < Y)
             {
