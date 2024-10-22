@@ -1,6 +1,6 @@
 using System;
 
-class LabAct4
+public class LabAct4
 {
     static void Main()
     {
