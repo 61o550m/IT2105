@@ -1,3 +1,32 @@
+IT2105_LabActivity5_INHAYNES
+
+Code:
+
+
+![image](https://github.com/user-attachments/assets/fcd02a52-de09-4730-8f4e-889c2aca89d6)
+![image](https://github.com/user-attachments/assets/20410cd9-756a-4f3b-a63b-36fc3022745a)
+![image](https://github.com/user-attachments/assets/12122614-1b0a-4c7b-a961-76612c3cbc22)
+
+
+
+Output:
+
+
+![image](https://github.com/user-attachments/assets/d81d87b7-065f-4ed4-a963-f7b933f5da94)
+
+
+Code Explanation:
+
+
+The code in the program is used to do a simple bank account program with four options which are to deposit, withdraw, check balance, and exit. It interacts with the user through basic console input and output. The BankAccount class manages the account balance and includes methods for depositing money, withdrawing money, and displaying the current balance. The Program class handles the user interface, displaying a menu and using a switch statement to process the user’s selection. The code also used Convert.ToDecimal in order to convert the amount entered in deposit and withdraw option directly to decimal. 
+
+
+
+
+─── ･ ｡ﾟ☆: *.☽ .* :☆ﾟ. ───
+
+
+
 IT2105_LabActivity4_INHAYNES
 
 Code:
